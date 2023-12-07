@@ -65,7 +65,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- CrunchyRoll -->
+		<!-- CrunchyRoll (Discontinued) 
 		<mtrl id="8" mname="CrunchyRoll - No Psn" from="2012-08-13T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2016-03-08T22:25:21.000Z" anno="">
 			<desc>CrunchyRoll</desc>
 			<url type="118">http://nsx.np.dl.playstation.net/nsx/material/1/1a14bf49df7e19a8af57af3c1d44161bd64a051f-1134954.jpg</url>
@@ -73,7 +73,7 @@
 			<target type="u">psgm:install?contentid=UP2074-NPUP10027_00-2012070500000001&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Crunchyroll_v1.30.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- Dansk Filmskat -->	
 		<mtrl id="9" mname="Dansk Filmskat - No Psn" from="2015-09-21T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-09-21T09:05:14.000Z" anno="">
 			<desc>Dansk Filmskat</desc>
@@ -298,7 +298,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- Spotify -->
+		<!-- Spotify (Discontinued) 
 		<mtrl id="34" mname="Spotify - No Psn" from="2015-10-07T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-10-07T13:45:16.000Z" anno="">
 			<desc>Spotify</desc>
 			<url type="118">http://github.com/PS3-4K-Pro/Channels/raw/main/media/spotify.jpg</url>
@@ -306,7 +306,7 @@
 			<target type="u">psgm:install?contentid=EP4950-NPEB02222_00-SPOTIFY0FULL0000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Spotify_v1.22.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- Stan -->
 		<mtrl id="35" mname="Stan - Official" from="2015-10-07T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-10-07T13:45:16.000Z" anno="">
 			<desc>Stan</desc>
