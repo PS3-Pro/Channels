@@ -29,7 +29,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- Anime Lab -->
+		<!-- Anime Lab (Discontinued 2023)
 		<mtrl id="4" mname="AnimeLab - No Psn" from="2015-10-18T15:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-10-16T14:11:49.000Z" anno="csxad=0">
 			<desc>AnimeLab</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/4/47f26d124e8ad2d3d40be095d0f813c9ec1a7d6d-1110041.png</url>
@@ -37,7 +37,7 @@
 			<target type="u">psgm:install?contentid=EP8812-NPEB02357_00-WEBMAF00ANIMELAB&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/AnimeLab_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- Cinépolis -->
 		<mtrl id="5" mname="Cinépolis - No Psn" from="2015-10-18T15:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2015-10-16T14:11:49.000Z" anno="">
 			<desc>Cinépolis</desc>
@@ -343,7 +343,7 @@
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
-		<!-- Twitch -->
+		<!-- Twitch (Discontinued 2023)
 		<mtrl id="39" mname="Twitch - No Psn and etHANol" from="2016-04-20T00:00:00.000Z" until="2100-03-05T23:59:00.000Z" lastm="2020-03-05T09:51:25.000Z" anno="">
 			<desc>Twitch</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/f/f5dabb331ee6720b6a81daa6317d15eb289d3b5f-1140512.png</url>
@@ -351,8 +351,8 @@
 			<target type="u">psgm:install?contentid=EP8816-NPEB02359_00-GTWITCHXXX000001&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Twitch_v1.07.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
-		<!-- Vevo -->
+		</mtrl> -->
+		<!-- Vevo (Discontinued 2023)
 		<mtrl id="40" mname="Vevo - No Psn" from="2016-04-20T00:00:00.000Z" until="2100-03-05T23:59:00.000Z" lastm="2020-03-05T09:51:25.000Z" anno="">
 			<desc>Vevo</desc>
 			<url type="118">http://github.com/PS3-4K-Pro/Channels/raw/main/media/vevo.jpg</url>
@@ -360,7 +360,7 @@
 			<target type="u">psgm:install?contentid=EP4547-NPEB02212_00-WEBMAF000000VEVO&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Vevo_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
-		</mtrl>
+		</mtrl> -->
 		<!-- ViaPlay -->	
 		<mtrl id="41" mname="ViaPlay - Official" from="2012-11-14T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2012-11-14T09:47:52.000Z" anno="max-age=60">
 			<desc>ViaPlay</desc>
