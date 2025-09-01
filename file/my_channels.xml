@@ -7,7 +7,7 @@
 			<desc>Amazon Prime Video</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/e/e8e92b9e8da655ac1c48b45ebce86dc1a0c36ca2-1178889.png</url>
 			<data name="no-psn-amazon.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLgotIFdoZW4gdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBwcm9tcHQgYXBwZWFycywgcHJlc3MgdGhlIGJhY2sgYnV0dG9uIHRvIGJ5cGFzcyBpdC4=</data>
-			<target type="u">psgm:install?contentid=EP4183-NPEB00344_00-LOVEFILMFULL0100&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Amazon_Instant_Video_v4.06.pkg</target>
+			<target type="u">psgm:install?contentid=EP4183-NPEB00344_00-LOVEFILMFULL0100&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Amazon_Instant_Video_v4.06.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -16,15 +16,15 @@
 			<desc>MEO</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/e/ef7ececdfa12d1bccd49b062470afea80efa35ea-637012.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
-			<target type="u">psgm:install?contentid=EP4428-NPEB01906_00-WEBMAF00000MEOGO&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/MEO_VideoClube_v1.01.pkg</target>
+			<target type="u">psgm:install?contentid=EP4428-NPEB01906_00-WEBMAF00000MEOGO&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/MEO_VideoClube_v1.01.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<!-- Movian -->
 		<mtrl id="3" mname="Movian - Unofficial" from="2014-12-10T00:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2014-12-10T14:38:32.000Z" anno="">
 			<desc>Movian</desc>
-			<url type="118">http://github.com/PS3-4K-Pro/Channels/raw/main/media/movian.jpg</url>
-			<target type="u">psgm:install?contentid=UP0001-HTSS00003_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Movian_v5.0.724.pkg</target>
+			<url type="118">https://github.com/PS3-Pro/Channels/raw/main/media/movian.jpg</url>
+			<target type="u">psgm:install?contentid=UP0001-HTSS00003_00-0000000000000000&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Movian_v5.0.724.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -33,7 +33,7 @@
 			<desc>Netflix</desc>
 			<url type="118">http://nsx.np.dl.playstation.net/nsx/material/2/278bde480e78ec2b04cb2f32fee8e01998175329-1215059.jpg</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
-			<target type="u">psgm:install?contentid=UT0007-NPUP00030_00-NETFLIXRIGEL01NA&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Netflix_v2.36.pkg</target>
+			<target type="u">psgm:install?contentid=UT0007-NPUP00030_00-NETFLIXRIGEL01NA&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Netflix_v2.36.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -42,7 +42,7 @@
 			<desc>Pathé Thuis</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/6/67ff46d61aff90b83a61558d68d9645265668651-675332.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
-			<target type="u">psgm:install?contentid=EP4466-NPEB01974_00-WEBMAF00000PATHE&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Pathe_Thuis_v1.00.pkg</target>
+			<target type="u">psgm:install?contentid=EP4466-NPEB01974_00-WEBMAF00000PATHE&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Pathe_Thuis_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -51,7 +51,7 @@
 			<desc>Stan</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/b/b6019e88f4967fcd14c9885667615ef3f1c14e51-1108198.png</url>
 			<data name="official.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBub3QgeWV0IGJlZW4gcGF0Y2hlZCB0byBieXBhc3MgdGhlIFBsYXlTdGF0aW9u4oSiTmV0d29yayBsb2dpbiBmcm9tIHRoZSBzeXN0ZW0uCi0gWW91IG11c3QgYmUgY29ubmVjdGVkIHRvIFBsYXlTdGF0aW9u4oSiTmV0d29yayBpbiBvcmRlciB0byB1c2UgdGhpcyBhcHBsaWNhdGlvbi4=</data>
-			<target type="u">psgm:install?contentid=EP8814-NPEB02362_00-WEBMAF000000STAN&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Stan_v1.00.pkg</target>
+			<target type="u">psgm:install?contentid=EP8814-NPEB02362_00-WEBMAF000000STAN&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Stan_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -60,7 +60,7 @@
             <desc>VUDU™ Movie Service</desc>
             <url type="117">http://nsx.e1-np.dl.playstation.net/fs/nsx/material/2/2f8426b922331cbb2d46a47fbcb6dc7dd5b74370-3390.png</url>
             <data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
-			<target type="u">psgm:install?contentid=UT0015-NPUP00047_00-VUDU000000065977&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Vudu_v2.01.pkg</target>
+			<target type="u">psgm:install?contentid=UT0015-NPUP00047_00-VUDU000000065977&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Vudu_v2.01.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
         </mtrl>
@@ -69,7 +69,7 @@
 			<desc>YouTube</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/6/62c86f1cc8f6e341d0763977f802f55aa1dfb204-973553.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
-			<target type="u">psgm:install?contentid=EP4381-NPEB01229_00-YOUTUBE000000001&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/Youtube_v3.03.pkg</target>
+			<target type="u">psgm:install?contentid=EP4381-NPEB01229_00-YOUTUBE000000001&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/Youtube_v3.03.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
@@ -78,34 +78,34 @@
 			<desc>YuppTV</desc>
 			<url type="117">http://nsx.np.dl.playstation.net/nsx/material/f/f0693d569e9d2f9e68c165d915224a7cbc8d33ef-1122300.png</url>
 			<data name="no-psn.txt" type="120">Tm90aWNlIQoKLSBUaGlzIGFwcGxpY2F0aW9uIGhhcyBiZWVuIHBhdGNoZWQgdG8gYnlwYXNzIHRoZSBQbGF5U3RhdGlvbuKEok5ldHdvcmsgbG9naW4gZnJvbSB0aGUgc3lzdGVtLg==</data>
-			<target type="u">psgm:install?contentid=EP8810-NPEB02350_00-WEBMAF0000YUPPTV&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/YuppTV_v1.02.pkg</target>
+			<target type="u">psgm:install?contentid=EP8810-NPEB02350_00-WEBMAF0000YUPPTV&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/YuppTV_v1.02.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<!-- XVideos Straight Edition -->
 		<mtrl id="10" mname="XVideos - Straight Edition" from="2017-06-20T07:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-11-21T19:28:45.000Z" anno="fixed=1">
 			<desc>XVideos - Straight Edition</desc>
-			<url type="118">http://github.com/PS3-4K-Pro/Channels/raw/main/media/xvideos_straight.jpg</url>
+			<url type="118">https://github.com/PS3-Pro/Channels/raw/main/media/xvideos_straight.jpg</url>
 			<data name="+18.txt" type="120">V2FybmluZyEKCi0gWW91IG11c3QgYmUgMTggb3Igb2xkZXIgaW4gb3JkZXIgdG8gZG93bmxvYWQgdGhpcyBjb250ZW50Lg==</data>
-			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSHT_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Straight_v1.00.pkg</target>
+			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSHT_00-0000000000000000&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/XVideos_Straight_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<!-- XVideos Gay Edition -->
 		<mtrl id="11" mname="XVideos - Straight Edition" from="2017-06-20T07:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-11-21T19:28:45.000Z" anno="fixed=1">
 			<desc>XVdeos - Gay Edition</desc>
-			<url type="118">http://github.com/PS3-4K-Pro/Channels/raw/main/media/xvideos_gay.jpg</url>
+			<url type="118">https://github.com/PS3-Pro/Channels/raw/main/media/xvideos_gay.jpg</url>
 			<data name="+18.txt" type="120">V2FybmluZyEKCi0gWW91IG11c3QgYmUgMTggb3Igb2xkZXIgaW4gb3JkZXIgdG8gZG93bmxvYWQgdGhpcyBjb250ZW50Lg==</data>
-			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSGA_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Gay_v1.00.pkg</target>
+			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSGA_00-0000000000000000&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/XVideos_Gay_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
 		<!-- XVideos Lesbian Edition -->
 		<mtrl id="12" mname="XVideos - Straight Edition" from="2017-06-20T07:00:00.000Z" until="2100-12-31T23:59:00.000Z" lastm="2017-11-21T19:28:45.000Z" anno="fixed=1">
 			<desc>XVideos - Lesbian Edition</desc>
-			<url type="118">http://github.com/PS3-4K-Pro/Channels/raw/main/media/xvideos_lesbian.jpg</url>
+			<url type="118">https://github.com/PS3-Pro/Channels/raw/main/media/xvideos_lesbian.jpg</url>
 			<data name="+18.txt" type="120">V2FybmluZyEKCi0gWW91IG11c3QgYmUgMTggb3Igb2xkZXIgaW4gb3JkZXIgdG8gZG93bmxvYWQgdGhpcyBjb250ZW50Lg==</data>
-			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSLB_00-0000000000000000&amp;url=http://github.com/PS3-4K-Pro/Packages/releases/download/Multimedia/XVideos_Lesbian_v1.00.pkg</target>
+			<target type="u">psgm:install?contentid=PS3CFW-XVIDEOSLB_00-0000000000000000&amp;url=https://github.com/PS3-Pro/Packages/releases/download/Multimedia/XVideos_Lesbian_v1.00.pkg</target>
 			<cntry agelmt="0">all</cntry>
 			<lang>all</lang>
 		</mtrl>
